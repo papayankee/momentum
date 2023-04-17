@@ -1,0 +1,17 @@
+body {
+    background-color: beige
+}
+
+h1 {
+    color: cornflowerblue;
+    transition: color 0.5s;
+}
+
+.clicked {
+    color: tomato;
+    transition: color 0.5s;
+}
+
+
+.sexy-font {
+    font-family: 'Lobster', cursive;}
